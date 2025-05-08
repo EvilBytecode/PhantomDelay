@@ -1,5 +1,4 @@
-
-# PhantomDelay Function - README
+# PhantomDelay
 
 ## 🧳 Overview
 
